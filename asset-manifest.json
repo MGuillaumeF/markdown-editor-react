@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/markdown-editor-react/static/js/main.71bd29ab.chunk.js",
+    "main.js.map": "/markdown-editor-react/static/js/main.71bd29ab.chunk.js.map",
+    "runtime-main.js": "/markdown-editor-react/static/js/runtime-main.df98c592.js",
+    "runtime-main.js.map": "/markdown-editor-react/static/js/runtime-main.df98c592.js.map",
+    "static/css/2.de424728.chunk.css": "/markdown-editor-react/static/css/2.de424728.chunk.css",
+    "static/js/2.3b1a3f5d.chunk.js": "/markdown-editor-react/static/js/2.3b1a3f5d.chunk.js",
+    "static/js/2.3b1a3f5d.chunk.js.map": "/markdown-editor-react/static/js/2.3b1a3f5d.chunk.js.map",
+    "index.html": "/markdown-editor-react/index.html",
+    "precache-manifest.be935e7ac2cda15e3a78568db88fd2f2.js": "/markdown-editor-react/precache-manifest.be935e7ac2cda15e3a78568db88fd2f2.js",
+    "service-worker.js": "/markdown-editor-react/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/markdown-editor-react/static/css/2.de424728.chunk.css.map",
+    "static/js/2.3b1a3f5d.chunk.js.LICENSE.txt": "/markdown-editor-react/static/js/2.3b1a3f5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df98c592.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3b1a3f5d.chunk.js",
+    "static/js/main.71bd29ab.chunk.js"
+  ]
+}
